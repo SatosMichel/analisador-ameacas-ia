@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+aiofiles # Necessário para servir arquivos estáticos como o frontend
